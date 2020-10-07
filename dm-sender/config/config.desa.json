@@ -1,0 +1,7 @@
+{
+  "cloudant": {
+    "url": "https://7c16d1b6-eee0-4843-b8fc-22e206a0d040-bluemix.cloudantnosqldb.appdomain.cloud",
+    "iamApiKey": "mDAdHDDn3ZAmZBLf8Rk_XbOVILXVRCVTS6tt5SDW73f0",
+    "dbName": "teco-test"
+  }
+}

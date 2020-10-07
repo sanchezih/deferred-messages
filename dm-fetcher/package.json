@@ -1,0 +1,20 @@
+{
+  "name": "dm-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.2.4",
+    "express": "^4.17.1",
+    "moment": "^2.27.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "author": "Ignacio Sanchez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
